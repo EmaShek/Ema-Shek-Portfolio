@@ -130,10 +130,4 @@ void loop() {
   // Reset lead screw position
   up(3770);
   delay(40000);
-
-
-
-
-
-
 }
